@@ -46,7 +46,7 @@ To set up the project locally, follow these steps:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/SartHak-0-Sach/IP-address-tracker_frontend_project)
+- Solution URL: [GitHub Repository](https://github.com/code-with-bindu/IP-Address-Tracker)
 - Live Site URL: [Live Site](https://ip-address-tracker-app-project.netlify.app/)
 
 ## My process
